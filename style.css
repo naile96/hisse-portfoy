@@ -1,0 +1,14 @@
+
+/*!base html codes*/
+html{
+    font-size: 62.5%;
+    overflow: hidden;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: beige;
+    text-align: center;
+}
+
